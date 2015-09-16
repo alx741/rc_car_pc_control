@@ -1,2 +1,6 @@
 Refer to:
 http://silly-bytes.blogspot.cl/2012/10/controlando-auto-rcradio-control-con-la.html
+
+Compile:
+$ make
+
